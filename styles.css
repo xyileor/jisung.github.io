@@ -32,6 +32,14 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
+   --bs-green: #39FF14; /* Warna hijau neon */
+  --bs-blue-sky: #0dcaf0; /* Warna biru langit */
+  --bs-body-color: #39FF14; /* Warna teks utama */
+  --bs-body-bg: #f8fdad; /* Warna latar belakang */
+  --bs-link-color: #39FF14; /* Warna tautan */
+  --bs-link-hover-color: #31fa42; /* Warna tautan saat hover */
+  --bs-code-color: #380b22; /* Warna kode */
+  --bs-highlight-bg: #e0cf97; /* Warna latar belakang highlight */
   --bs-primary-rgb: 30, 48, 243;
   --bs-secondary-rgb: 226, 30, 128;
   --bs-success-rgb: 25, 135, 84;
@@ -46,7 +54,7 @@
   --bs-body-bg-rgb: 255, 255, 255;
   --bs-font-sans-serif: "Plus Jakarta Sans";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --bs-gradient: linear-gradient(135deg, rgba(57, 255, 20, 1) 0%, rgba(13, 202, 240, 1) 100%); /* Gradasi hijau neon ke biru langit */
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
